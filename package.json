@@ -1,0 +1,14 @@
+{
+  "name": "node_crawler",
+  "version": "1.0.0",
+  "description": "crawler ",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "keywords": [
+    "crawler"
+  ],
+  "author": "zhangchuan <zhangchuan@weidian.com>",
+  "license": "ISC"
+}
